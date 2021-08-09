@@ -15,17 +15,49 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 20vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 100px;
+  color: #ec4c4c;
+  padding: 50px;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.headerpic {
+  width: 200px;
+  margin: 20px;
+}
+
+.Tonypic {
+  width: 100%;
+  height: auto;
+  padding-top: 100px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.button {
+  transition-duration: 0.4s;
+  background-color: grey;
+  color: white;
+  border: 2px solid black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  font-size: 20px;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
 }
 
 @keyframes App-logo-spin {
