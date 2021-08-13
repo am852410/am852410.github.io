@@ -48,6 +48,12 @@ function App() {
         Dog Walking Website
       </a>
       <br />
+      <p>
+        I built a full stack application for a dog walking business providing
+        the services offered, user log in and sign up, and scheduling walks. I
+        used Javascript, CSS on Front End and Python in the Backend. This full
+        stack app was deployed in Heroku to make it a live website.
+      </p>
       <br />
       <a
         className="button"
@@ -56,10 +62,25 @@ function App() {
         Taco Recipe Website
       </a>
       <br />
+      <p>
+        I built a full stack application using Javascript, CSS, and EJS. The
+        purpose of the app is to invite people from all over to post their taco
+        recipes paired with their choice of craft beer. In the app you will find
+        our latest taco recipe submissions. This full stack app was deployed in
+        Heroku to make it a live website.
+      </p>
       <br />
       <a className="button" href="https://am852410.github.io/Project-1/">
         Loteria (Bingo) Game
       </a>
+      <br />
+      <p>
+        I built a one player Loteria (Bingo) Game using Javascript and CSS where
+        the user clicks a button to start the game and redirects the user to a
+        new page that generates a new game card each time the game is played.
+        This full stack app was deployed on Github Pages to make it a live
+        website.
+      </p>
 
       <section />
     </div>
