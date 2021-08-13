@@ -10,7 +10,7 @@ function App() {
         Mendoza
       </header>
       <div className="Tonypic">
-        <img src={"NY-TO-NY.jpg"} />
+        <img src={"00019487-3BC1-4483-8018-96AE6A06799D_1_201_a.jpeg"} />
       </div>
       <section>
         <h2>Profiles and Resume</h2>
