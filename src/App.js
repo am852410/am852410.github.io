@@ -13,6 +13,14 @@ function App() {
         <img src={"00019487-3BC1-4483-8018-96AE6A06799D_1_201_a.jpeg"} />
       </div>
       <section>
+        <p>
+          My name is Antonio Mendoza and I am a Software Engineer looking to get
+          a jumpstart on my coding career. I am always finding ways to continue
+          to challenge myself and express my creativity wether it is through
+          painting a piece of art, creating a recipe, or developing a website. I
+          am dedicated to what I do and I will always give you the best of my
+          abilities. Always learning always growing.
+        </p>
         <h2>Profiles and Resume</h2>
         <a
           href="https://www.linkedin.com/in/antoniomendoza1234561944"
@@ -47,6 +55,12 @@ function App() {
       >
         Taco Recipe Website
       </a>
+      <br />
+      <br />
+      <a className="button" href="https://am852410.github.io/Project-1/">
+        Loteria (Bingo) Game
+      </a>
+
       <section />
     </div>
   );

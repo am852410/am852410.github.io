@@ -42,6 +42,12 @@
   object-position: center;
 }
 
+p {
+  font-family: "Times New Roman", Times, sans-serif;
+  font-size: 40px;
+  border-style: groove;
+}
+
 .button {
   transition-duration: 0.4s;
   background-color: grey;
